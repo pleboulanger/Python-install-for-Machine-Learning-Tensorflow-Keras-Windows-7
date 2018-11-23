@@ -2,6 +2,7 @@
 Python install for Machine Learning (Tensorflow Keras) on Windows 7 
 
 What you will need :
+
 -Windows 7
 -Administrator rights
 
