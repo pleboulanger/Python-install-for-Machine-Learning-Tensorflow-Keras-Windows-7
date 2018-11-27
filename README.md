@@ -62,6 +62,11 @@ model.compile(optimizer='adam',
 model.fit(x_train, y_train, epochs=5)
 model.evaluate(x_test, y_test)
 ```
+
+The result should be something like that showing the training:
+
+![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/MNIST.PNG)
+
 ###### Sources :
 https://www.tensorflow.org/install
 
