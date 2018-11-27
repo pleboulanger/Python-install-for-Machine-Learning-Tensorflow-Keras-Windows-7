@@ -64,3 +64,6 @@ model.evaluate(x_test, y_test)
 ```
 ###### Sources :
 https://www.tensorflow.org/install
+
+For GPU:
+https://medium.com/@kelfun5354/step-by-step-guide-to-install-tensorflow-cpu-gpu-for-windows-7-b472327984cd
