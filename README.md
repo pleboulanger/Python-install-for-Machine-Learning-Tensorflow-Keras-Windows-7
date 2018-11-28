@@ -14,7 +14,7 @@ At the end of this tutorial you will have installed the following:
 - Keras
 
 First, we need to install Python 3.5.2.
-Go to https://www.python.org/downloads/release/python-352/ and download the Windows x86-64 executable installer.
+Download the Windows x86-64 executable installer at https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe.
 
 Install the program.
 
