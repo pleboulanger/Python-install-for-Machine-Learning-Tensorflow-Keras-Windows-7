@@ -77,7 +77,7 @@ model.evaluate(x_test, y_test)
 
 The result should be something like that (showing the training):
 
-![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/MNIST.PNG)
+![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/Mnist.PNG)
 
 You can add the following lines in order to see how well your model did on unseen data 
 ```
