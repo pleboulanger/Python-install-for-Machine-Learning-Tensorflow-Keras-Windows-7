@@ -46,7 +46,7 @@ Start a notebook with the command
 >jupyter notebook
 
 The jupyter notebook should open in your browser. If it doesn't, copy paste the link in terminal that looks like
->http://localhost:8888/?token=31314d79ccf87a3a79cd377808db8cdc06d84196887d0e0f
+>http://localhost:8888/?token=31314d79ccf87a3d79cc377808db8cda06d84196887d0e0f
 
 You can try to run the following "hello world"
 ```
