@@ -87,6 +87,8 @@ print (model.metrics_names)
 
 The accuracy (acc) is your model's performance. 1 means 100%.
 
+Congratulation, you just trained your first Deep Learning model!!
+
 ###### Sources :
 
 Python
