@@ -12,6 +12,7 @@ At the end of this tutorial you will have installed the following:
 - Pip
 - Tensorflow
 - Keras
+- Jupyter notebook
 
 First, we need to install Python 3.5.2.
 Download the Windows x86-64 executable installer at https://www.python.org/ftp/python/3.5.2/python-3.5.2-amd64.exe.
@@ -37,9 +38,15 @@ Once it is done, install Tensorflow by typing
 Then install Keras with
 >pip install --upgrade keras
 
-Once it is done, you're good to go!
-If you want an IDE in order to write your code, you can get PyCharm Community from https://www.jetbrains.com/pycharm/download/#section=windows
+Finally, install jupyter
+>pip install jupyter
 
+Once it is done, you're good to go!
+Start a notebook with the command
+>jupyter notebook
+
+The jupyter notebook should open in your browser. If it doesn't, copy paste the link in terminal that looks like
+>http://localhost:8888/?token=31314d79ccf87a3a79cd377808db8cdc06d84196887d0e0f
 
 You can try to run the following "hello world"
 ```
