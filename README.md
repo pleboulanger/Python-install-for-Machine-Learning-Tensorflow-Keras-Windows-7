@@ -80,10 +80,21 @@ The result should be something like that (showing the training):
 ![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/MNIST.PNG)
 
 ###### Sources :
+
+Python
+https://www.python.org/downloads/release/python-352/
+
+Pip
+https://pypi.org/project/pip/
+
+Tensorflow
 https://www.tensorflow.org/install
 
 For GPU:
 https://medium.com/@kelfun5354/step-by-step-guide-to-install-tensorflow-cpu-gpu-for-windows-7-b472327984cd
+
+Keras:
+https://keras.io/#installation
 
 Jupyter:
 https://jupyter.readthedocs.io/en/latest/install.html
