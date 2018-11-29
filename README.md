@@ -41,12 +41,17 @@ Then install Keras with
 Finally, install jupyter
 >pip install jupyter
 
-Once it is done, you're good to go!
 Start a notebook with the command
 >jupyter notebook
 
-The jupyter notebook should open in your browser. If it doesn't, copy paste the link in terminal that looks like
+The jupyter notebook should open in your web browser. If it doesn't, copy paste the link in terminal that looks like
 >http://localhost:8888/?token=31314d79ccf87a3d79cc377808db8cda06d84196887d0e0f
+
+You can navigate in your file system. I will go to /Documents and then click on "New" and choose "Python 3".
+It will create an Untitled python file.
+
+Once it is done, you're good to go!
+You can start writing your python code!
 
 You can try to run the following "hello world"
 ```
@@ -70,7 +75,7 @@ model.fit(x_train, y_train, epochs=5)
 model.evaluate(x_test, y_test)
 ```
 
-The result should be something like that showing the training:
+The result should be something like that (showing the training):
 
 ![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/MNIST.PNG)
 
@@ -79,3 +84,6 @@ https://www.tensorflow.org/install
 
 For GPU:
 https://medium.com/@kelfun5354/step-by-step-guide-to-install-tensorflow-cpu-gpu-for-windows-7-b472327984cd
+
+Jupyter:
+https://jupyter.readthedocs.io/en/latest/install.html
