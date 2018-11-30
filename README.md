@@ -33,13 +33,13 @@ Now install and upgrade pip (a Python package manager) by entering the following
 >python.exe -m pip install --upgrade pip
 
 Once it is done, install Tensorflow by typing
->pip install --upgrade tensorflow
+>python.exe -m pip install --upgrade tensorflow
 
 Then install Keras with
->pip install --upgrade keras
+>python.exe -m pip install --upgrade keras
 
 Finally, install jupyter
->pip install jupyter
+>python.exe -m pip install jupyter
 
 Start a notebook with the command
 >jupyter notebook
