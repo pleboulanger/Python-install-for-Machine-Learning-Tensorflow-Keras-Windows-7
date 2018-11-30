@@ -48,6 +48,7 @@ The jupyter notebook should open in your web browser. If it doesn't, copy paste 
 >http://localhost:8888/?token=31314d79ccf87a3d79cc377808db8cda06d84196887d0e0f
 
 You can navigate in your file system. I will go to /Documents and then click on "New" and choose "Python 3".
+![alt text](https://github.com/pleboulanger/Python-install-for-Machine-Learning-Tensorflow-Keras-Windows-7/blob/master/New_Python3.PNG)
 It will create an Untitled python file.
 
 Once it is done, you're good to go!
