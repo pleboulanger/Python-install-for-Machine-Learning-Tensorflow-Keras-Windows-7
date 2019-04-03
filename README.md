@@ -35,6 +35,8 @@ Now install and upgrade pip (a Python package manager) by entering the following
 Once it is done, install Tensorflow by typing
 >python.exe -m pip install --upgrade tensorflow
 
+# At this point, check that you are using Python 64-bit if Tensorflow install fail!!!
+
 Then install Keras with
 >python.exe -m pip install --upgrade keras
 
